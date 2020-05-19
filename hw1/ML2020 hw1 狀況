@@ -1,0 +1,6 @@
+ML2020 hw1
+training 的colab檔
+https://colab.research.google.com/drive/1R9Pf-p1YmCh3-WrosYY37Sdzzu2GpO4u#scrollTo=ztDoZmzAQEWA
+
+簡單說這個training結果是發散式壞掉了，最後數值趨近無限大，應該是哪裡搞錯了；這個script是照著助教的example寫的
+應該是對python的不熟系哪裡搞錯了，或許得先用個Hello World下去做會比較
